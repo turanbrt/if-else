@@ -19,7 +19,7 @@ class Program
         Console.WriteLine(sonuc);
 
         sonuc=time>6 && time<12 ? "günaydın": time<18 ?"iyi günler":"iyi geceler";
-        Console.WriteLine(sonuc);
+        Console.WriteLine(sonuc); 
 
 
 
